@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Navbar background color */
+.navbar  {
+  background-color: rgb(236, 166, 15);
+}
+
+/* Styling and setting background image for section */
+.intro {
+  background-image: url(../images/mainBg.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+}
+
+/* Styling the row inside the intro section */
+.row-intro {
+  padding-top: 10rem;
+  text-align: center;
+  margin-left: 1%;
+  margin-right: 1%;
+  color: #000;
+}
+
+/* Styling and using the google font for the intro text */
+.intro-title {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  padding-bottom: 0.5rem;
+  color: rgb(236, 166, 15);
+}
+
+/* styling the intro text to white */
+.intro-text {
+  color: #fff;
+  font-weight: bold;
+}
+
+/* using the google font for the nav text */
+.nav-title {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.nav-item {
+  font-size: 18px;
+}
+
+/* styling the p element */
+p {
+  font-family: sans-serif, Arial, serif;
+}
+
+.dropdown-item {
+  border-bottom: 1px solid rgb(223, 219, 219);
+  
+}
+
+.dropdown-item:last-child {
+  border-bottom: none;
+}
+
+/* Section about */
+/* ----------------------------------------- */
+
+#about {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.right-about-us {
+  height: 50%;
+}
+
+.right-about-us img {
+  height: 100%;
+  width: 100%;
+}
+
+.left-about-us {
+  height: 50%;
+  background-color: rgb(236, 230, 230);
+  padding: 2rem;
+  margin-bottom: 1rem;
+}
+
+.intro-title-about {
+  margin-top: 5%;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 30px;
+  padding-bottom: 0.5rem;
+  color: rgb(236, 166, 15);
+}
+
+/* ----------------------------------------- */
+
+/* Section dish Edit */
+/* ----------------------------------------- */
+
+#section-dish {
+  background-image: url(../images/dishBg.jpeg);
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.dish-intro-title {
+  padding-top: 5%;
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size: 33 px;
+  padding-bottom: 0.5rem;
+  color: rgb(236, 166, 15);
+}
+
+.dish-text {
+  color: #fff;
+}
+
+.dish-pics img {
+  width: 100%;  
+}
+.space {
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+/* ----------------------------------------- */
+
+/* Section Menu */
+/* ----------------------------------------- */
+#menu {
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.menu-text {
+  color: #000;
+}
+
+.space-top {
+  margin-top: 5%;
+}
+
+.menu-title {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+
+.menu-text-title {
+  font-weight: bold;
+}
+
+.push-right {
+  float: right;
+  font-weight: bold;
+}
+
+.menu-sub-text {
+  font-style: italic;
+}
+
+.text-underline {
+  border-bottom: 1px solid #E2E1E1;
+  padding-bottom: 12px;
+}
+/* ----------------------------------------- */
+
+/* Footer */
+/* ----------------------------------------- */
+
+footer {
+  border-top: #000 solid 1px;
+  background-color: rgb(236, 166, 15);
+}
+
+.footer-text {
+  color: #fff;
+  padding-bottom: 1rem;
+}
+
+.footer-title {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  margin-top: 1rem;
+  color: #fff;
+}
+
+/* ----------------------------------------- */
+
+
+
+        
+
+          
