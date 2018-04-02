@@ -10,7 +10,7 @@
 
 /* Styling and setting background image for section */
 .intro {
-  background-image: url(../images/mainBg.jpg);
+  background-image: url(../images/intro-background-pic.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
