@@ -13,6 +13,7 @@
   background-image: url(../images/intro-background-pic.jpg);
   background-size: cover;
   background-position: center;
+  background-attachment: fixed; /* Remove or comment this if you don't want to have fixed background */
   height: 100vh;
   display: flex;
   flex-direction: column;
