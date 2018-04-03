@@ -1,2 +1,2 @@
-# A Restaurant/Cafe website Sample Build with Bootstrap
+# A Single page Restaurant/Cafe website Sample Build with Bootstrap
 
