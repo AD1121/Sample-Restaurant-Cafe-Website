@@ -202,8 +202,18 @@ footer {
 
 /* ----------------------------------------- */
 
+/* contact */
+/* ----------------------------------------- */
+#contact {
+  background-color: #E2E1E1;
+  padding-top: 60px;
+  padding-left: 30px;
+  padding-right: 30px;  
+  padding-bottom: 60px;;
+}
 
-
-        
-
+.fas {
+  float: left;
+  padding-right: 25px;
+}
           
